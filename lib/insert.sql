@@ -1,1 +1,8 @@
-
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 4, "M", "Brown", "Super-nice", 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Rowdy", 1, "M", "Black", "A Pain in the ass", 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 7, "F", "Tan", "Cuddly", 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 12, "F", "Ironically, Black", "Aggressive", 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 32, "F", "White", "Lazy", 0)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 17, "M", "Green", "Grumpy", 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 98, "F", "Blue", "A little old lady from Peter Pan", 0)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, NULL, NULL, "Black", "A KILLER", 1)
